@@ -1,0 +1,40 @@
+{
+  "fruits": [
+    {
+      "id": 7,
+      "name": "apple",
+      "price": 3000,
+      "quantity": 3
+    },
+    {
+      "id": 8,
+      "name": "apple",
+      "price": 3000,
+      "quantity": 3
+    },
+    {
+      "id": 9,
+      "name": "apple",
+      "price": 3000,
+      "quantity": 3
+    },
+    {
+      "id": 10,
+      "name": "apple",
+      "price": 3000,
+      "quantity": 3
+    },
+    {
+      "id": 11,
+      "name": "apple",
+      "price": 3000,
+      "quantity": 3
+    },
+    {
+      "id": 13,
+      "name": "orange",
+      "price": 10000,
+      "quantity": 100
+    }
+  ]
+}
