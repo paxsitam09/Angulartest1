@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "To Shay",
+      "price": "1000"
+    },
+    {
+      "id": 2,
+      "name": "Parmote",
+      "price": "500"
+    },
+    {
+      "id": 3,
+      "name": "Palatar(kyat Ou)",
+      "price": "1200"
+    }
+  ]
+}
